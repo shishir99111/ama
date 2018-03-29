@@ -1,6 +1,6 @@
 # JShilpa/ama
 
-A repository to ask [JainShilpa26](https://twitter.com/JainShilpa26) anything.
+A repository to ask [@JainShilpa26](https://twitter.com/JainShilpa26) anything.
 
 ### Ask a question
 
