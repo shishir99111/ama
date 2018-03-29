@@ -1,6 +1,6 @@
 # JShilpa/ama
 
-A repository to ask [@JainShilpa26](https://twitter.com/JainShilpa26) anything.
+ This is a quick little ask-[me](https://jshilpa.com)-anything type of repository. It is forked from @holman's feedback repo and seems like a pretty fantastic idea in lieu of traditional blog comments, email, and the like.
 
 ### Ask a question
 
